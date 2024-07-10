@@ -1,0 +1,148 @@
+{
+    "requirements": [
+        {
+            "requirement": "Critical thinking and strong attention to details",
+            "type": "soft_skill",
+            "satisfied": null,
+            "explanation": "The CV does not provide explicit examples or mention critical thinking or strong attention to details."
+        },
+        {
+            "requirement": "Strong written and verbal communication skills",
+            "type": "soft_skill",
+            "satisfied": null,
+            "explanation": "The CV mentions strong communication skills in the highlights section, but does not provide specific examples or mention written communication."
+        },
+        {
+            "requirement": "Strong understanding of object-oriented programming",
+            "type": "hard_skill",
+            "satisfied": null,
+            "explanation": "The CV does not mention object-oriented programming or any specific programming languages or frameworks."
+        },
+        {
+            "requirement": "Years of software engineering experience",
+            "type": "hard_skill",
+            "satisfied": null,
+            "explanation": "The CV does not provide specific information on the number of years of software engineering experience."
+        },
+        {
+            "requirement": "Years of full stack web development experience",
+            "type": "hard_skill",
+            "satisfied": null,
+            "explanation": "The CV does not provide specific information on the number of years of full stack web development experience."
+        },
+        {
+            "requirement": "Years of experience with HTML, CSS, JavaScript, and or its frameworks",
+            "type": "hard_skill",
+            "satisfied": null,
+            "explanation": "The CV does not provide specific information on the number of years of experience with HTML, CSS, JavaScript, or its frameworks."
+        },
+        {
+            "requirement": "Advanced knowledge and implementational skills with MVC architecture",
+            "type": "hard_skill",
+            "satisfied": null,
+            "explanation": "The CV does not mention MVC architecture or any specific experience with it."
+        },
+        {
+            "requirement": "Experience building applications with design patterns and frameworks (Struts, Spring, Spring Boot, and microservices)",
+            "type": "hard_skill",
+            "satisfied": null,
+            "explanation": "The CV does not mention experience with design patterns or frameworks such as Struts, Spring, Spring Boot, or microservices."
+        },
+        {
+            "requirement": "Experience working in an agile environment (Scrum)",
+            "type": "hard_skill",
+            "satisfied": null,
+            "explanation": "The CV does not mention experience working in an agile environment or with Scrum."
+        },
+        {
+            "requirement": "Experience with software engineering best practices for the SDLC (code standards, reviews, VCS, testing, etc.)",
+            "type": "hard_skill",
+            "satisfied": null,
+            "explanation": "The CV does not mention experience with software engineering best practices for the SDLC."
+        },
+        {
+            "requirement": "Strong competency with relational databases (schema design, normalization, writing complex queries, and optimization)",
+            "type": "hard_skill",
+            "satisfied": false,
+            "explanation": "The CV does not mention experience with relational databases or any specific database technologies."
+        },
+        {
+            "requirement": "Familiarity with CI/CD pipelines and processes",
+            "type": "hard_skill",
+            "satisfied": null,
+            "explanation": "The CV does not mention experience with CI/CD pipelines or processes."
+        },
+        {
+            "requirement": "Strong proficiency with system design and architecture (application and database)",
+            "type": "hard_skill",
+            "satisfied": None,
+            "explanation": "The CV does not provide specific examples or mention experience with system design and architecture."
+        },
+        {
+            "requirement": "Experience with building and consuming REST or SOAP web services (with and without using frameworks)",
+            "type": "hard_skill",
+            "satisfied": None,
+            "explanation": "The CV does not mention experience with building or consuming REST or SOAP web services."
+        },
+        {
+            "requirement": "Experience implementing data structures and algorithms (linked list, graphs, trees, tries, etc.)",
+            "type": "hard_skill",
+            "satisfied": None,
+            "explanation": "The CV does not mention experience with implementing data structures and algorithms."
+        },
+        {
+            "requirement": "Solid understanding of Linux or Windows OS with scripting skills in Bash, Power Shell, or Python",
+            "type": "hard_skill",
+            "satisfied": None,
+            "explanation": "The CV does not mention experience with Linux or Windows OS or scripting skills in Bash, Power Shell, or Python."
+        },
+        {
+            "requirement": "Experience with best security practices while implementing APIs, SSO, and in general",
+            "type": "hard_skill",
+            "satisfied": None,
+            "explanation": "The CV does not mention experience with best security practices while implementing APIs, SSO, or in general."
+        },
+        {
+            "requirement": "Preferred experience with AWS products",
+            "type": "hard_skill",
+            "satisfied": None,
+            "explanation": "The CV does not mention experience with AWS products."
+        },
+        {
+            "requirement": "Experience with Salesforce development (Apex and the Salesforce CLI)",
+            "type": "hard_skill",
+            "satisfied": None,
+            "explanation": "The CV does not mention experience with Salesforce development, Apex, or the Salesforce CLI."
+        },
+        {
+            "requirement": "Experience with the Atlassian product suite (Confluence, Jira, Bitbucket)",
+            "type": "hard_skill",
+            "satisfied": None,
+            "explanation": "The CV does not mention experience with the Atlassian product suite."
+        },
+        {
+            "requirement": "Experience with Docker",
+            "type": "hard_skill",
+            "satisfied": None,
+            "explanation": "The CV does not mention experience with Docker."
+        },
+        {
+            "requirement": "Advanced Java proficiency",
+            "type": "hard_skill",
+            "satisfied": None,
+            "explanation": "The CV does not mention experience with Java or any specific programming languages."
+        },
+        {
+            "requirement": "Experience with any NoSQL database",
+            "type": "hard_skill",
+            "satisfied": None,
+            "explanation": "The CV does not mention experience with any NoSQL databases."
+        },
+        {
+            "requirement": "Bachelor's degree or above in Computer Science, Information Systems, or a related field of study",
+            "type": "degree",
+            "satisfied": True,
+            "explanation": "The CV mentions a Bachelor of Arts in Communications from St. Edward's University."
+        }
+    ]
+}
