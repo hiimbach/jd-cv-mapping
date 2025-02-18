@@ -1,4 +1,4 @@
-# Financial Statement Reader
+# CV-JD Matching System
 The CV-JD Matching System is a Retrieval-Augmented Generation (RAG) framework crafted to enhance the recruitment process 
 by mapping resumes (CVs) to job descriptions (JDs). This system utilizes advanced prompt engineering and scoring 
 algorithms to assess and rank CVs based on the specific requirements outlined in JDs. By integrating sophisticated 
