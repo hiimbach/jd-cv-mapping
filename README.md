@@ -34,7 +34,7 @@ pip install -r requirements.txt
 ## Usage
 Run the following command to start the Streamlit app:
 ```
-streamlit run app.py
+streamlit run demo.py
 ```
 In the app you can choose Demo if you dont have a financial statement file to upload.
 
